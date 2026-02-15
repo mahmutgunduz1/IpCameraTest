@@ -35,6 +35,8 @@ import kotlin.math.abs
 @UnstableApi
 class MainActivity : AppCompatActivity() {
 
+    //deneme Branch
+
     // Arayüz Elemanları
 
     //📺 Ekran: Görüntüyü göstereceğimiz televizyon.
